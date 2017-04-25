@@ -25,4 +25,9 @@ Planned Features:
   - Different views (Jars being filled)
   - Accounts linking/summary (Each category can link to account, so give sub-totals of different accounts for easy planning)
   - Linking profiles for overall summary
-  
+  - Convert to java/android
+  - better storage of data
+  - different pay cycles (e.g. fortnightly or set dates per month) with quick change
+  - income calculator with tax and hours
+  - incorporate into calendar, what each action costs or earns
+  - fit into fitness/lifestyle planner (future program)
